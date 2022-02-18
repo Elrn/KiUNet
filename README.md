@@ -6,6 +6,7 @@
 1. Label
 2. Prediction
 
+Evaluate
 ---
 | **Metric** | **Score** |  |
 |---|---|---|
